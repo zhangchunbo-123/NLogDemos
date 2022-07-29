@@ -1,5 +1,5 @@
-# NLogDemos
-## Introduction:
+## NLogDemos
+### Introduction:
 1-NLog config
 
 * how to insert into app.config or web.config
