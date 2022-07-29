@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogDemo", "NLogDemo\NLogDemo.csproj", "{E0973A78-B542-40B7-AACD-A036E0AEEC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogHelper", "NLogHelper\NLogHelper.csproj", "{0EE0A8F0-8E38-4340-A18D-0F132DDB1FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0973A78-B542-40B7-AACD-A036E0AEEC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0973A78-B542-40B7-AACD-A036E0AEEC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0973A78-B542-40B7-AACD-A036E0AEEC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0973A78-B542-40B7-AACD-A036E0AEEC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE0A8F0-8E38-4340-A18D-0F132DDB1FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE0A8F0-8E38-4340-A18D-0F132DDB1FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE0A8F0-8E38-4340-A18D-0F132DDB1FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE0A8F0-8E38-4340-A18D-0F132DDB1FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF3DD075-BA80-4428-AF46-AD3736D77B18}
+	EndGlobalSection
+EndGlobal

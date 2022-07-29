@@ -1,0 +1,11 @@
+D:\Projects\Demos\NLogDemos\NLogDemos\NLogHelper\bin\Debug\NLogHelper.dll
+D:\Projects\Demos\NLogDemos\NLogDemos\NLogHelper\bin\Debug\NLogHelper.pdb
+D:\Projects\Demos\NLogDemos\NLogDemos\NLogHelper\bin\Debug\NLog.dll
+D:\Projects\Demos\NLogDemos\NLogDemos\NLogHelper\bin\Debug\NLog.xml
+D:\Projects\Demos\NLogDemos\NLogDemos\NLogHelper\obj\Debug\NLogHelper.csproj.AssemblyReference.cache
+D:\Projects\Demos\NLogDemos\NLogDemos\NLogHelper\obj\Debug\NLogHelper.csproj.CoreCompileInputs.cache
+D:\Projects\Demos\NLogDemos\NLogDemos\NLogHelper\obj\Debug\NLogHelper.csproj.CopyComplete
+D:\Projects\Demos\NLogDemos\NLogDemos\NLogHelper\obj\Debug\NLogHelper.dll
+D:\Projects\Demos\NLogDemos\NLogDemos\NLogHelper\obj\Debug\NLogHelper.pdb
+D:\Projects\Demos\NLogDemos\NLogDemos\NLogHelper\bin\Debug\NLog.config
+D:\Projects\Demos\NLogDemos\NLogDemos\NLogHelper\bin\Debug\NLogHelper.dll.config
