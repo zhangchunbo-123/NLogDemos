@@ -1,2 +1,4 @@
 # NLogDemos
-C# NLog Samples
+# Introduction:
+1-NLog config
+2-NLog call
